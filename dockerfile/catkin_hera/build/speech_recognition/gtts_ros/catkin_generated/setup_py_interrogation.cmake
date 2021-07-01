@@ -1,0 +1,7 @@
+set(gtts_ros_SETUP_PY_SETUP_MODULE "distutils.core")
+set(gtts_ros_SETUP_PY_VERSION "0.0.0")
+set(gtts_ros_SETUP_PY_SCRIPTS "")
+set(gtts_ros_SETUP_PY_PACKAGES "")
+set(gtts_ros_SETUP_PY_PACKAGE_DIRS "")
+set(gtts_ros_SETUP_PY_MODULES "")
+set(gtts_ros_SETUP_PY_MODULE_DIRS "")

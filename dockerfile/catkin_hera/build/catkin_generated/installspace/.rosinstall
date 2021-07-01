@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /workspace/dockerfile/catkin_hera/install/setup.sh

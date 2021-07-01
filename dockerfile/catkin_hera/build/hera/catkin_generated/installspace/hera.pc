@@ -1,0 +1,8 @@
+prefix=/workspace/dockerfile/catkin_hera/install
+
+Name: hera
+Description: Description of hera
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

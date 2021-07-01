@@ -1,0 +1,8 @@
+prefix=/workspace/dockerfile/catkin_hera/install
+
+Name: gtts_ros
+Description: Description of gtts_ros
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs actionlib_msgs

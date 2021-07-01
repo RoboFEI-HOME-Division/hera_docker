@@ -1,0 +1,8 @@
+prefix=/workspace/dockerfile/catkin_hera/devel
+
+Name: hera_nav
+Description: Description of hera_nav
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

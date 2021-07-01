@@ -1,0 +1,8 @@
+prefix=/workspace/dockerfile/catkin_hera/install
+
+Name: tmc_wrs_gazebo_launch
+Description: Description of tmc_wrs_gazebo_launch
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

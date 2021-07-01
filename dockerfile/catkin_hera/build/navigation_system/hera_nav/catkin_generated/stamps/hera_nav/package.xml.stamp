@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>hera_nav</name>
+  <version>0.1.0</version>
+  <description>
+    This package is an implementation of the [Ros Navigation Stack (RNS)](http://wiki.ros.org/navigation) for the [HERA robot (2020 version)](http://robofei.aquinno.com/athome/wp-content/uploads/2020/01/TDP2020ROBOFEI.pdf).
+  </description>
+
+  <maintainer email="fagnerpimentel@gmail.com">Fagner Pimentel</maintainer>
+  <author email="fagnerpimentel@gmail.com">Fagner Pimentel</author>
+  <url type="website">https://gitlab.com/fpimentel/hera/hera_nav</url>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>

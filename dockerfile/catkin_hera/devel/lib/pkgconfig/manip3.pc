@@ -1,0 +1,8 @@
+prefix=/workspace/dockerfile/catkin_hera/devel
+
+Name: manip3
+Description: Description of manip3
+Version: 1.0.0
+Cflags: -I/workspace/dockerfile/catkin_hera/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

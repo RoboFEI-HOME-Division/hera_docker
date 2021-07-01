@@ -1,0 +1,7 @@
+set(hera_SETUP_PY_SETUP_MODULE "distutils.core")
+set(hera_SETUP_PY_VERSION "0.0.0")
+set(hera_SETUP_PY_SCRIPTS "")
+set(hera_SETUP_PY_PACKAGES "actions")
+set(hera_SETUP_PY_PACKAGE_DIRS "actions")
+set(hera_SETUP_PY_MODULES "")
+set(hera_SETUP_PY_MODULE_DIRS "")
